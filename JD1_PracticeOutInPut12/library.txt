@@ -1,0 +1,5 @@
+Name - Finansist; author - Draiser; year - 1950; content - Frank Kaupervood in Filadelphia; price - 218000
+Name - Titan; author - Draiser; year - 1954; content - Frank Kaupervood in Chicago; price - 220000
+Name - Stoik; author - Draiser; year - 1956; content - Frank Kaupervood and Berenis; price - 258000
+Name - Genius; author - Draiser; year - 1965; content - Writer; price - 300000
+Name - American Tragedy; author - Draiser; year - 1947; content - Live; price - 274000
