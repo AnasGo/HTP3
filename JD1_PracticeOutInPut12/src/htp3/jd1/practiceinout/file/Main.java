@@ -20,16 +20,25 @@ public class Main {
 		library.add(b5);
 
 		FileWriter fw = new FileWriter("library.txt");
+		
 		BufferedWriter bw = new BufferedWriter(fw);
+		
 		PrintWriter pw = new PrintWriter(bw);
+		
 		for (Book book : library) {
 			pw.println(book.bookInformation());
 		}
+		
 		pw.close();
+		
 		ArrayList <String> collectionFromFile = new ArrayList<String>();
+		
 		FileReader fr = new FileReader("library.txt");
+		
 		BufferedReader br = new BufferedReader(fr);
+		
 		String s;
+		
 		while ((s = br.readLine()) != null) {
 			collectionFromFile.add(s);
 		}

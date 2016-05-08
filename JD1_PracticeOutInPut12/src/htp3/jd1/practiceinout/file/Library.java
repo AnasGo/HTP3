@@ -4,6 +4,4 @@ import java.util.*;
 
 public class Library {
 	List <Book> library = new ArrayList<Book>();
-	
-	
-}
+	}
